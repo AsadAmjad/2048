@@ -1,5 +1,4 @@
 {
-	"version": "1.0",
 	"name": "2048",
 	"description": "2048 game app for firefox OS",
 	"launch_path": "/index.html",
