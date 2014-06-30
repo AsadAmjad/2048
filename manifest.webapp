@@ -13,7 +13,8 @@
 		"name": "Asad Amjad",
 		"url": "https://github.com/AsadAmjad"
 	},
-	"default_locale": "en",
+	"installs_allowed_from": ["*"],
+	"default_locale": "en"
 	"permissions": {
 		"systemXHR": {""}
 	}
