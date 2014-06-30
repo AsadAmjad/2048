@@ -5,9 +5,9 @@
 	"launch_path": "/index.html",
 	"appcache_path": "/offline.appcache",
 	"icons": {
-		"16": "/img/icons/appicon-16.png",
-		"48": "/img/icons/appicon-48.png",
-		"128": "/img/icons/appicon-128.png"
+		"16": "/2048/img/icons/appicon-16.png",
+		"48": "/2048/img/icons/appicon-48.png",
+		"128": "/2048/img/icons/appicon-128.png"
 	},
 	"developer": {
 		"name": "Asad Amjad",
