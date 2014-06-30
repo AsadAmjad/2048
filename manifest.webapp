@@ -3,7 +3,7 @@
 	"name": "2048",
 	"description": "2048 game app for firefox OS",
 	"launch_path": "/2048/index.html",
-	"appcache_path": "/offline.appcache",
+	"appcache_path": "/2048/offline.appcache",
 	"icons": {
 		"16": "/2048/img/icons/appicon-16.png",
 		"48": "/2048/img/icons/appicon-48.png",
