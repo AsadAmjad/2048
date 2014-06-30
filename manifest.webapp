@@ -1,6 +1,6 @@
 {
         "version": "1.0", 
-	"name": "2048",
+	"name": "2048 4x4",
 	"description": "2048 game app for firefox OS",
 	"launch_path": "/2048/index.html",
 	"appcache_path": "/2048/offline.appcache",
