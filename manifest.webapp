@@ -15,4 +15,7 @@
 	},
 	"installs_allowed_from": ["*"],
 	"default_locale": "en"
+	"permissions": {
+		"systemXHR": {}
+	}
 }
