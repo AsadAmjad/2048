@@ -1,4 +1,5 @@
 {
+        "version": "1.0", 
 	"name": "2048",
 	"description": "2048 game app for firefox OS",
 	"launch_path": "/index.html",
@@ -12,7 +13,6 @@
 		"name": "Asad Amjad",
 		"url": "https://github.com/AsadAmjad"
 	},
-	"installs_allowed_from": ["*"],
 	"default_locale": "en",
 	"permissions": {
 		"systemXHR": {""}
